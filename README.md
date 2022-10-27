@@ -1,5 +1,7 @@
 # About YunDaeHyuck
 
+- statistics
+
 - Data Scientist  
 
 - ML/DL developer
