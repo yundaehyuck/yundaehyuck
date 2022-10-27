@@ -32,6 +32,8 @@
 
 1) [Learning to resize images for computer vision tasks](https://github.com/yundaehyuck/Learning-to-resize-images-for-computer-vision-tasks)
 
+   inspired by https://arxiv.org/abs/2103.09950
+
 
 ## 4. study blog
 
