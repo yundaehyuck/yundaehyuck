@@ -30,8 +30,12 @@
 
 ## 3. implementation
 
+1) [Learning to resize images for computer vision tasks](https://github.com/yundaehyuck/Learning-to-resize-images-for-computer-vision-tasks)
+
 
 ## 4. study blog
+
+Statistics/ML/DL/algorithm etc.
 
 https://deepdata.tistory.com/
 
