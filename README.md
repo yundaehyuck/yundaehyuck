@@ -1,6 +1,6 @@
 # About YunDaeHyuck
 
-- statistics
+- Statistics
 
 - Data Scientist  
 
