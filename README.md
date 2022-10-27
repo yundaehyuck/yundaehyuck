@@ -1,4 +1,18 @@
-### Hi there 👋
+# About YunDaeHyuck
+
+## 1. project
+
+
+- 
+
+
+#### 2. study blog
+
+https://deepdata.tistory.com/
+
+#### project
+
+
 
 <!--
 **yundaehyuck/yundaehyuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
