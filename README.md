@@ -17,6 +17,8 @@
 ## 1. skills
 
     Python, Java, SQL, Javascript, Pytorch  
+    
+    web service(newbie): React,Vue.js(frontend),Node.js,django(backend),docker,jenkins(CI/CD)
 
 
 ## 2. project
@@ -36,6 +38,11 @@
 5) [College Scholastic Ability Test English Multiple choices task](https://github.com/yundaehyuck/project-public-code/tree/master/Deep%20learning%20project/College%20Scholastic%20Ability%20Test%20English%20Multiple%20choices%20task)
     
     2022 Korea College Scholastic Ability English Test using AI
+
+6) [Movie Recommendation Web Service](https://github.com/harimchung/moofy)
+
+7) Personal Color Recognition Web Service
+
 ***
 
 ## 3. implementation
