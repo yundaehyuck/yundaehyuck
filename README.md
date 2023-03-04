@@ -6,6 +6,12 @@
 
 - ML/DL developer
 
+- Algorithm Problem Solver
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gnzpstly2000)](https://solved.ac/gnzpstly2000)
+
+
 ## 1. skills
 
     Python, Pytorch
