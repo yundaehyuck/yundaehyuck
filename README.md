@@ -6,6 +6,8 @@
 
 - ML/DL developer
 
+- Web service developer
+
 - Algorithm Problem Solver
 
 
@@ -45,7 +47,7 @@
 
 ## 4. study blog
 
-Statistics/ML/DL/algorithm etc.
+Statistics/ML/DL/programming/algorithm etc.
 
 https://deepdata.tistory.com/
 
