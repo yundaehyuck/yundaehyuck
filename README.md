@@ -14,7 +14,7 @@
 
 ## 1. skills
 
-    Python, Pytorch
+    Python, Java, SQL, Javascript, Pytorch  
 
 
 ## 2. project
