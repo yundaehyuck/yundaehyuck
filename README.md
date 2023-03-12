@@ -43,6 +43,8 @@
 
 7) Personal Color Recognition Web Service
 
+8) Fashion Recommendation Web Sevice
+
 ***
 
 ## 3. implementation
