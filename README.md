@@ -45,6 +45,8 @@
 
 8) [Fashion Recommendation Web Sevice](https://github.com/yundaehyuck/Fashion-style-inference-AI-modeling)
 
+9) [Book service for children Web Service(SDS)](https://github.com/yundaehyuck/SDS-book_service_modeling)
+
 ***
 
 ## 3. implementation
