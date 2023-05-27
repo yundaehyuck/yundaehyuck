@@ -41,7 +41,7 @@
 
 6) [Movie Recommendation Web Service](https://github.com/harimchung/moofy)
 
-7) Personal Color Recognition Web Service
+7) [Personal Color Recognition Web Service](https://github.com/yundaehyuck/personal_color_recognition_web_service)
 
 8) [Fashion Recommendation Web Sevice](https://github.com/yundaehyuck/Fashion-style-inference-AI-modeling)
 
