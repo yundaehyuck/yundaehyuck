@@ -23,7 +23,7 @@
 
 ## 2. project
 
-1) [Basic image classification](https://github.com/yundaehyuck/project-public-code/tree/master/Deep%20learning%20project/Basic%20Image%20Classification "Basic image classification")
+1) [Basic image classification](https://github.com/yundaehyuck/mask_image_classification_pjt)
 
 2) [Stuructured data analysis](https://github.com/yundaehyuck/structure_data_analysis_online_shop_buy_prediction_pjt)
 
