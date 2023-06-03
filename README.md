@@ -25,7 +25,7 @@
 
 1) [Basic image classification](https://github.com/yundaehyuck/project-public-code/tree/master/Deep%20learning%20project/Basic%20Image%20Classification "Basic image classification")
 
-2) [Stuructured data analysis](https://github.com/yundaehyuck/project-public-code/tree/master/Deep%20learning%20project/Structured%20Data%20Analysis "Stuructured data analysis")
+2) [Stuructured data analysis](https://github.com/yundaehyuck/structure_data_analysis_online_shop_buy_prediction_pjt)
 
 3) [Machine reading comprehension](https://github.com/yundaehyuck/Machine_Reading_Comprehension_pjt)
 
