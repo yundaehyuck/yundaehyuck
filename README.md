@@ -29,23 +29,11 @@
 
 3) [Machine reading comprehension](https://github.com/yundaehyuck/project-public-code/tree/master/Deep%20learning%20project/Machine%20Reading%20Comprehension "Machine reading comprehension")
 
-4) [Light weight modeling](https://github.com/yundaehyuck/project-public-code/tree/master/Deep%20learning%20project/Light%20Weight%20Modeling "Light weight modeling")
-    
-    image classification modeling
-    
-    AutoML using optuna
-    
-5) [College Scholastic Ability Test English Multiple choices task](https://github.com/yundaehyuck/project-public-code/tree/master/Deep%20learning%20project/College%20Scholastic%20Ability%20Test%20English%20Multiple%20choices%20task)
-    
-    2022 Korea College Scholastic Ability English Test using AI
+4) [Light weight modeling](https://github.com/yundaehyuck/computer_vision_light_weight_modeling_pjt)
 
-6) [Movie Recommendation Web Service](https://github.com/harimchung/moofy)
+5) [Fashion Recommendation Web Sevice](https://github.com/yundaehyuck/Fashion-style-inference-AI-modeling)
 
-7) [Personal Color Recognition Web Service](https://github.com/yundaehyuck/personal_color_recognition_web_service)
-
-8) [Fashion Recommendation Web Sevice](https://github.com/yundaehyuck/Fashion-style-inference-AI-modeling)
-
-9) [Book service for children Web Service(SDS)](https://github.com/yundaehyuck/SDS-book_service_modeling)
+6) [Book service for children Web Service(SDS)](https://github.com/yundaehyuck/SDS-book_service_modeling)
 
 ***
 
