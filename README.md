@@ -18,7 +18,7 @@
 
     Python, Java, C++, SQL, Javascript, Pytorch  
     
-    web service(newbie): React,Vue.js(frontend),Node.js,django(backend),docker,jenkins(CI/CD)
+    web service(newbie): React,Vue.js(frontend),FastAPI, Node.js,django(backend),docker,jenkins(CI/CD)
 
 
 ## 2. project
