@@ -12,6 +12,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gnzpstly2000)](https://solved.ac/gnzpstly2000)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={gnzpstly2000}&theme=warm)
 
 
 ## 1. skills
