@@ -10,6 +10,8 @@
 
 - Algorithm Problem Solver
 
+- Game developer
+
 ### BOJ ###
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gnzpstly2000)](https://solved.ac/gnzpstly2000)
@@ -18,6 +20,10 @@
 ### Atcoder ###
 
 [![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=YunDaehyuck)](https://atcoder.jp/users/YunDaehyuck)
+
+### DACON ###
+
+1. [웹 기사 추천 AI 경진대회](https://dacon.io/competitions/official/236290/overview/description) Private 3위
 
 
 ## 1. skills
