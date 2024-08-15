@@ -25,7 +25,7 @@
 
 ### DACON ###
 
-1. [웹 기사 추천 AI 경진대회](https://dacon.io/competitions/official/236290/overview/description) Private 3위(/347)
+1. [웹 기사 추천 AI 경진대회](https://dacon.io/competitions/official/236290/overview/description) Private 3위(/186)
 
 
 ---
