@@ -37,6 +37,8 @@
     
     web service(newbie): React,Vue.js(frontend),FastAPI, Node.js,django(backend),docker,jenkins(CI/CD)
 
+    game develop(newbie): C#, unity
+
 
 ## 2. project
 
