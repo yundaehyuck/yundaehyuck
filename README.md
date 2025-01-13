@@ -33,7 +33,7 @@
 
 ## 1. skills
 
-    Python, Java, C++, SQL, Javascript, Pytorch  
+    Python, C++, SQL, Pytorch  
     
     web service(newbie): React,Vue.js(frontend),FastAPI, Node.js,django(backend),docker,jenkins(CI/CD)
 
