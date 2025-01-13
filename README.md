@@ -40,7 +40,18 @@
     game develop(newbie): C#, unity
 
 
-## 2. project
+## 2. Certificate
+
+1) ADsP
+
+2) SQLD
+
+3) 빅데이터분석기사
+
+4) 정보처리기사
+
+
+## 3. project
 
 1) [Basic image classification](https://github.com/yundaehyuck/mask_image_classification_pjt)
 
@@ -56,14 +67,14 @@
 
 ***
 
-## 3. implementation
+## 4. implementation
 
 1) [Learning to resize images for computer vision tasks](https://github.com/yundaehyuck/Learning-to-resize-images-for-computer-vision-tasks)
 
    inspired by https://arxiv.org/abs/2103.09950
 
 
-## 4. study blog
+## 5. study blog
 
 Statistics/ML/DL/programming/algorithm etc.
 
