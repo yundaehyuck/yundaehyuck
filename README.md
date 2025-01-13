@@ -61,9 +61,11 @@
 
 4) [Light weight modeling](https://github.com/yundaehyuck/computer_vision_light_weight_modeling_pjt)
 
-5) [Fashion Recommendation Web Sevice](https://github.com/yundaehyuck/Fashion-style-inference-AI-modeling)
+5) [Personal Color Recognition Web Service](https://github.com/yundaehyuck/personal_color_recognition_web_service)
 
-6) [Book service for children Web Service(SDS)](https://github.com/yundaehyuck/SDS-book_service_modeling)
+6) [Fashion Recommendation Web Sevice](https://github.com/yundaehyuck/Fashion-style-inference-AI-modeling)
+
+7) [Book service for children Web Service(SDS)](https://github.com/yundaehyuck/SDS-book_service_modeling)
 
 ***
 
