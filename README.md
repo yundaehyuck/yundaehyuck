@@ -33,11 +33,11 @@
 
 ## 1. skills
 
-    Python, C++, SQL, Pytorch  
+    Python, SQL, Pytorch  
     
     web service(newbie): React,Vue.js(frontend),FastAPI, Node.js,django(backend),docker,jenkins(CI/CD)
 
-    game develop(newbie): C#, unity
+    game develop(newbie): C++, C#, unity
 
 
 ## 2. Certificate
